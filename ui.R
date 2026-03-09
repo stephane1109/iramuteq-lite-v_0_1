@@ -95,7 +95,7 @@ ui <- fluidPage(
     tags$br(),
     "Plus de scripts/appli ? vous pouvez consulter mon site : www.codeandcortex.fr",
     tags$br(),
-    "version beta 0.4 - 18-02-2026"
+    "version beta 0.1 - 09-03-2026"
   ),
 
   sidebarLayout(
